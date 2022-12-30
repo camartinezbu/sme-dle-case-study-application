@@ -95,7 +95,7 @@ Screencasts in Data Literacy and Essential (DLE) courses demonstrate to learners
 
   
 
-- [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here:
+- [x] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: https://drive.google.com/file/d/1EWWl2FIXHp40q-Xug0P9gIWU0sSi1F75/view?usp=sharing
 
   
   
@@ -110,7 +110,8 @@ Now that you have created an explorable revisit your outline and develop it furt
 
   
 
-- [ ] Upload your wireframe to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here:
+- [x] Upload your wireframe to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here:
+https://docs.google.com/document/d/1EYrTUJ-DTvDk4pQEauIHGCS57sOm6wws/edit?usp=sharing&ouid=114573925871617181347&rtpof=true&sd=true
 
   
   
